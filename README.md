@@ -10,7 +10,7 @@
 ## 🚀 Live Demo
 
 Explore the website live: [Tasty Delight](#)  
-_(https://sahilrajput47.github.io/Food-Website/)_
+_( https://sahilrajput47.github.io/Food-Website-Ui/)_
 
 ---
 
